@@ -7,40 +7,35 @@ class Program
     {
         try
         {
-            Prompt();
+            Console.WriteLine("Enter the username: ");
+            ValidateUsername();
+
+            Console.WriteLine("Enter the password: ");
+            string password = Console.ReadLine();
         }
         catch (InvalidUsernameException)
         {
-            Console.WriteLine("WRONG!");
+            Console.WriteLine("Wrong");
         }
         catch (InvalidPasswordException)
         {
 
         }
     }
-    public static void Prompt()
+    public static void ValidateUsername()
     {
-        Console.WriteLine("Enter the username: ");
-        string Username = Console.ReadLine();
-
-        if (Username.Length < 8)
+        string username = Console.ReadLine();
+        if (username.Length < 8)
         {
-            throw new InvalidPasswordException("kys");
+            throw new InvalidUsernameException("Something");
         }
-
-        Console.WriteLine("Enter the password: ");
-        string Password = Console.ReadLine();
     }
 
     public class InvalidUsernameException : System.Exception
     {
-
-    }
-
-    public class InvalidPasswordException : System.Exception
-    {
-        public InvalidPasswordException(string? message) : base(message)
+        public InvalidUsernameException(string? message) : base(message)
         {
         }
     }
+    public class InvalidPasswordException : System.Exception { }
 }
