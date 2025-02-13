@@ -1,0 +1,15 @@
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\CIS-150\Module5ThrowingExceptions\M5TE\bin\Debug\net8.0\M5TE.exe
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\CIS-150\Module5ThrowingExceptions\M5TE\bin\Debug\net8.0\M5TE.deps.json
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\CIS-150\Module5ThrowingExceptions\M5TE\bin\Debug\net8.0\M5TE.runtimeconfig.json
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\CIS-150\Module5ThrowingExceptions\M5TE\bin\Debug\net8.0\M5TE.dll
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\CIS-150\Module5ThrowingExceptions\M5TE\bin\Debug\net8.0\M5TE.pdb
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\CIS-150\Module5ThrowingExceptions\M5TE\obj\Debug\net8.0\M5TE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\CIS-150\Module5ThrowingExceptions\M5TE\obj\Debug\net8.0\M5TE.AssemblyInfoInputs.cache
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\CIS-150\Module5ThrowingExceptions\M5TE\obj\Debug\net8.0\M5TE.AssemblyInfo.cs
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\CIS-150\Module5ThrowingExceptions\M5TE\obj\Debug\net8.0\M5TE.csproj.CoreCompileInputs.cache
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\CIS-150\Module5ThrowingExceptions\M5TE\obj\Debug\net8.0\M5TE.sourcelink.json
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\CIS-150\Module5ThrowingExceptions\M5TE\obj\Debug\net8.0\M5TE.dll
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\CIS-150\Module5ThrowingExceptions\M5TE\obj\Debug\net8.0\refint\M5TE.dll
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\CIS-150\Module5ThrowingExceptions\M5TE\obj\Debug\net8.0\M5TE.pdb
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\CIS-150\Module5ThrowingExceptions\M5TE\obj\Debug\net8.0\M5TE.genruntimeconfig.cache
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\CIS-150\Module5ThrowingExceptions\M5TE\obj\Debug\net8.0\ref\M5TE.dll
