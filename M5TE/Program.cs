@@ -1,41 +1,34 @@
-﻿using System;
+﻿using M5TE;
+using System;
 using System.Security.Cryptography.X509Certificates;
 
 class Program
 {
     public static void Main(string[] args)
     {
-        try
+        bool continuing = true;
+        while (continuing)
         {
-            Console.WriteLine("Enter the username: ");
-            ValidateUsername();
+            try
+            {
+                Console.WriteLine("Enter the username (Minimum 4 characters, Maximum 20 characters): ");
+                string username = Console.ReadLine()!;
+                if (username.Length < 4 || username.Length > 20) throw new InvalidUsernameException(username);
 
-            Console.WriteLine("Enter the password: ");
-            string password = Console.ReadLine();
-        }
-        catch (InvalidUsernameException)
-        {
-            Console.WriteLine("Wrong");
-        }
-        catch (InvalidPasswordException)
-        {
+                Console.WriteLine("Enter the password (Minimum 8 characters): ");
+                string password = Console.ReadLine()!;
+                if (password.Length < 8) throw new InvalidPasswordException(password);
 
+                continuing = false;
+            }
+            catch (InvalidUsernameException userEX)
+            {
+                Console.WriteLine(userEX.Message);
+            }
+            catch (InvalidPasswordException passEX)
+            {
+                Console.WriteLine(passEX.Message);
+            }
         }
     }
-    public static void ValidateUsername()
-    {
-        string username = Console.ReadLine();
-        if (username.Length < 8)
-        {
-            throw new InvalidUsernameException("Something");
-        }
-    }
-
-    public class InvalidUsernameException : System.Exception
-    {
-        public InvalidUsernameException(string? message) : base(message)
-        {
-        }
-    }
-    public class InvalidPasswordException : System.Exception { }
 }

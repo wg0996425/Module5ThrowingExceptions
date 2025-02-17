@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\wg0996425\\OneDrive - Ozarks Technical Community College\\Documents\\CIS-150\\Module5ThrowingExceptions\\",
+  "WorkspaceRootPath": "C:\\Users\\wg0996425\\OneDrive - Ozarks Technical Community College\\Documents\\Module5ThrowingExceptions\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{98C4A7DB-4A73-4E57-9023-F30BE93C6E49}|M5TE\\M5TE.csproj|c:\\users\\wg0996425\\onedrive - ozarks technical community college\\documents\\cis-150\\module5throwingexceptions\\m5te\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{98C4A7DB-4A73-4E57-9023-F30BE93C6E49}|M5TE\\M5TE.csproj|c:\\users\\wg0996425\\onedrive - ozarks technical community college\\documents\\module5throwingexceptions\\m5te\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98C4A7DB-4A73-4E57-9023-F30BE93C6E49}|M5TE\\M5TE.csproj|solutionrelative:m5te\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C4A7DB-4A73-4E57-9023-F30BE93C6E49}|M5TE\\M5TE.csproj|c:\\users\\wg0996425\\onedrive - ozarks technical community college\\documents\\module5throwingexceptions\\m5te\\invalidusernameexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C4A7DB-4A73-4E57-9023-F30BE93C6E49}|M5TE\\M5TE.csproj|solutionrelative:m5te\\invalidusernameexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C4A7DB-4A73-4E57-9023-F30BE93C6E49}|M5TE\\M5TE.csproj|c:\\users\\wg0996425\\onedrive - ozarks technical community college\\documents\\module5throwingexceptions\\m5te\\invalidpasswordexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C4A7DB-4A73-4E57-9023-F30BE93C6E49}|M5TE\\M5TE.csproj|solutionrelative:m5te\\invalidpasswordexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InvalidPasswordException.cs",
+              "DocumentMoniker": "C:\\Users\\wg0996425\\OneDrive - Ozarks Technical Community College\\Documents\\Module5ThrowingExceptions\\M5TE\\InvalidPasswordException.cs",
+              "RelativeDocumentMoniker": "M5TE\\InvalidPasswordException.cs",
+              "ToolTip": "C:\\Users\\wg0996425\\OneDrive - Ozarks Technical Community College\\Documents\\Module5ThrowingExceptions\\M5TE\\InvalidPasswordException.cs",
+              "RelativeToolTip": "M5TE\\InvalidPasswordException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T21:44:07.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InvalidUsernameException.cs",
+              "DocumentMoniker": "C:\\Users\\wg0996425\\OneDrive - Ozarks Technical Community College\\Documents\\Module5ThrowingExceptions\\M5TE\\InvalidUsernameException.cs",
+              "RelativeDocumentMoniker": "M5TE\\InvalidUsernameException.cs",
+              "ToolTip": "C:\\Users\\wg0996425\\OneDrive - Ozarks Technical Community College\\Documents\\Module5ThrowingExceptions\\M5TE\\InvalidUsernameException.cs",
+              "RelativeToolTip": "M5TE\\InvalidUsernameException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T21:43:45.224Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\wg0996425\\OneDrive - Ozarks Technical Community College\\Documents\\CIS-150\\Module5ThrowingExceptions\\M5TE\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\wg0996425\\OneDrive - Ozarks Technical Community College\\Documents\\Module5ThrowingExceptions\\M5TE\\Program.cs",
               "RelativeDocumentMoniker": "M5TE\\Program.cs",
-              "ToolTip": "C:\\Users\\wg0996425\\OneDrive - Ozarks Technical Community College\\Documents\\CIS-150\\Module5ThrowingExceptions\\M5TE\\Program.cs",
+              "ToolTip": "C:\\Users\\wg0996425\\OneDrive - Ozarks Technical Community College\\Documents\\Module5ThrowingExceptions\\M5TE\\Program.cs",
               "RelativeToolTip": "M5TE\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBIAAAAJAAAAAAAAAA==",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAuwA8AAABeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-13T14:48:54.3Z",
               "EditorCaption": ""

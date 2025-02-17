@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wg0996425\\OneDrive - Ozarks Technical Community College\\Documents\\CIS-150\\Module5ThrowingExceptions\\M5TE\\M5TE.csproj": {}
+    "C:\\Users\\wg0996425\\OneDrive - Ozarks Technical Community College\\Documents\\Module5ThrowingExceptions\\M5TE\\M5TE.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wg0996425\\OneDrive - Ozarks Technical Community College\\Documents\\CIS-150\\Module5ThrowingExceptions\\M5TE\\M5TE.csproj": {
+    "C:\\Users\\wg0996425\\OneDrive - Ozarks Technical Community College\\Documents\\Module5ThrowingExceptions\\M5TE\\M5TE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wg0996425\\OneDrive - Ozarks Technical Community College\\Documents\\CIS-150\\Module5ThrowingExceptions\\M5TE\\M5TE.csproj",
+        "projectUniqueName": "C:\\Users\\wg0996425\\OneDrive - Ozarks Technical Community College\\Documents\\Module5ThrowingExceptions\\M5TE\\M5TE.csproj",
         "projectName": "M5TE",
-        "projectPath": "C:\\Users\\wg0996425\\OneDrive - Ozarks Technical Community College\\Documents\\CIS-150\\Module5ThrowingExceptions\\M5TE\\M5TE.csproj",
+        "projectPath": "C:\\Users\\wg0996425\\OneDrive - Ozarks Technical Community College\\Documents\\Module5ThrowingExceptions\\M5TE\\M5TE.csproj",
         "packagesPath": "C:\\Users\\wg0996425\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wg0996425\\OneDrive - Ozarks Technical Community College\\Documents\\CIS-150\\Module5ThrowingExceptions\\M5TE\\obj\\",
+        "outputPath": "C:\\Users\\wg0996425\\OneDrive - Ozarks Technical Community College\\Documents\\Module5ThrowingExceptions\\M5TE\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,8 +44,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -66,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
