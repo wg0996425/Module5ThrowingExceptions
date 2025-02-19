@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("M5TE")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+284f835a49879620e3cdc92b288a9d68b1a8f369")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd422fec77934f73511baf4bad7f8e5dfc689022")]
 [assembly: System.Reflection.AssemblyProductAttribute("M5TE")]
 [assembly: System.Reflection.AssemblyTitleAttribute("M5TE")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

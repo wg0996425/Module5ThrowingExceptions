@@ -13,11 +13,12 @@ class Program
             {
                 Console.WriteLine("Enter the username (Minimum 4 characters, Maximum 20 characters): ");
                 string username = Console.ReadLine()!;
-                if (username.Length < 4 || username.Length > 20) throw new InvalidUsernameException(username);
 
                 Console.WriteLine("Enter the password (Minimum 8 characters): ");
                 string password = Console.ReadLine()!;
-                if (password.Length < 8) throw new InvalidPasswordException(password);
+
+                var validate = new ValidateCredentials("", "");
+                validate.Validate(username, password);
 
                 continuing = false;
             }
